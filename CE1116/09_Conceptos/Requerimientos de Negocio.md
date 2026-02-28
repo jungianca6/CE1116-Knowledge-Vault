@@ -11,9 +11,13 @@ Son las necesidades u objetivos estratégicos que la organización quiere lograr
 
 ## 📌 Puntos Claves (Opcional)
 - 
-
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Stakeholder]]  
+[[Requerimientos de Sistema]]  
+[[Requerimientos Funcionales]]  
+[[Requerimientos No Funcionales]]  
+[[Product Owner]]
+
 
 ## 💡 Personal Insight (Opcional)
 - 

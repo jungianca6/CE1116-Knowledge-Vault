@@ -14,9 +14,17 @@ Scrum es un marco de trabajo ágil que organiza el desarrollo en ciclos cortos l
 
 ## 📌 Puntos Claves (Opcional)
 - 
-
 ## 🔗 Connections
 - [[Entrevistas]]
+- [[Filosofía ágil]]  
+[[Product Owner]]  
+[[Product Backlog]]  
+[[Sprint Backlog]]  
+[[Sprint Planning]]  
+[[Velocity]]  
+[[Taskboard]]  
+[[Definition of Done (DoD)]]
+
 
 ## 💡 Personal Insight (Opcional)
 - 

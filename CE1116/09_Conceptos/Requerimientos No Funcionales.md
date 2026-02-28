@@ -10,9 +10,12 @@ Tema:
 Definen las características de calidad del sistema, como rendimiento, seguridad, disponibilidad o usabilidad. No describen qué hace el sistema, sino cómo debe hacerlo
 ## 📌 Puntos Claves (Opcional)
 - 
-
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Requerimientos de Sistema]]  
+[[Requerimientos Funcionales]]  
+[[Pruebas Funcionales]]  
+[[Definition of Done (DoD)]]
+
 
 ## 💡 Personal Insight (Opcional)
 - 

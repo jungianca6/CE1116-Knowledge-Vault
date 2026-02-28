@@ -13,7 +13,10 @@ Es un tablero visual donde se organizan y mueven las tareas según su estado (pe
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum]]
+[[Sprint Backlog]]
+[[Sprint Planning]]
+[[Definition of Done (DoD)]]
 
 ## 💡 Personal Insight (Opcional)
 - 

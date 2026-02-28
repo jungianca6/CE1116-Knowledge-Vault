@@ -12,7 +12,10 @@ Son especificaciones técnicas que describen lo que el sistema debe hacer y cóm
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Requerimientos de Negocio]]  
+[[Requerimientos Funcionales]]  
+[[Requerimientos No Funcionales]]  
+[[Pruebas Funcionales]]
 
 ## 💡 Personal Insight (Opcional)
 - 

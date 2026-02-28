@@ -11,9 +11,14 @@ Tema:
 Es la reunión donde el equipo decide qué trabajo realizará durante el próximo sprint y cómo lo va a implementar.
 ## 📌 Puntos Claves (Opcional)
 - 
-
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum]]
+[[Sprint Backlog]]
+[[Product Backlog]]
+[[Velocity]]
+[[Story Points]]
+[[Planning Poker]]
+
 
 ## 💡 Personal Insight (Opcional)
 - 

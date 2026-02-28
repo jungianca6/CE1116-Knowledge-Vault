@@ -13,7 +13,12 @@ Es una descripción breve de una funcionalidad desde la perspectiva del usuario,
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Requerimientos Funcionales]]
+[[Product Backlog]]
+[[Scrum]]
+[[Story Points]]
+[[Planning Poker]]
+[[Definition of Done (DoD)]]
 
 ## 💡 Personal Insight (Opcional)
 - 

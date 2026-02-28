@@ -10,10 +10,13 @@ Tema:
 
 Son una unidad de medida relativa para estimar el esfuerzo o complejidad de una tarea, considerando dificultad, riesgo e incertidumbre, no tiempo exacto.
 ## 📌 Puntos Claves (Opcional)
-- 
+
 
 ## 🔗 Connections
-- [[ ]]
+- [[Planning Poker]]  
+[[Velocity]]  
+[[User Story]]  
+[[Sprint Planning]]
 
 ## 💡 Personal Insight (Opcional)
 - 

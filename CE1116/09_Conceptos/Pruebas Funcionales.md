@@ -11,9 +11,12 @@ Tema:
 Son pruebas que verifican que el sistema cumple con los requerimientos funcionales definidos, validando que cada función haga lo que debe hacer.
 ## 📌 Puntos Claves (Opcional)
 - 
-
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Requerimientos Funcionales]]
+[[Requerimientos No Funcionales]]
+[[Requerimientos de Sistema]]
+[[Definition of Done (DoD)]]
+
 
 ## 💡 Personal Insight (Opcional)
 - 

@@ -11,9 +11,12 @@ Tema:
 Es una medida de cuánto trabajo puede completar un equipo en un sprint, normalmente expresado en story points. Sirve para estimar cuánto se puede planificar en el futuro.
 ## 📌 Puntos Claves (Opcional)
 - 
-
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum]]
+[[Sprint Backlog]]
+[[Story Points]]
+[[Sprint Planning]]
+
 
 ## 💡 Personal Insight (Opcional)
 - 
