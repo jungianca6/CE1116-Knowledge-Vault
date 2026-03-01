@@ -4,6 +4,10 @@ Fecha de Modificación: 2026-02-27 16:16
 tags: 
 Tema:
 ---
+# Planning Poker
+
+
+---
 
 
 ## 📚 Idea/Concepto 

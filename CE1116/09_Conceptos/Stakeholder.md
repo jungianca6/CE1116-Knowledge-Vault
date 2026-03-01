@@ -4,6 +4,10 @@ Fecha de Modificación: 2026-02-27 15:35
 tags: 
 Tema:
 ---
+# Stakeholder
+
+
+---
 
 ## 📚 Idea/Concepto 
 

@@ -6,6 +6,10 @@ tags:
 Topic:
   - procesos-desarrollo
 ---
+# Scrum
+
+
+---
 
 
 ## 📚 Idea/Concepto 
