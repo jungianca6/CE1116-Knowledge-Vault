@@ -15,7 +15,7 @@ Es el conjunto de criterios que determinan cuándo una tarea o historia se consi
 ## 📌 Puntos Claves (Opcional)
 - 
 ## 🔗 Connections
-- [[ ]][[Scrum]]
+- [[Scrum]]
 - [[Sprint Backlog]]
 - [[Requerimientos Funcionales]]
 - [[Requerimientos No Funcionales]]
