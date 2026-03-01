@@ -12,7 +12,7 @@ Un stakeholder es cualquier persona o grupo que tiene interés o se ve afectado 
 - 
 
 ## 🔗 Connections
-- [[ ]][[Requerimientos de Negocio]]  
+- [[Requerimientos de Negocio]]  
 - [[Requerimientos de Sistema]]  
 - [[Requerimientos Funcionales]]  
 - [[Requerimientos No Funcionales]]  

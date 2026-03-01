@@ -12,11 +12,11 @@ Es la lista priorizada de todo lo que el producto necesita. Contiene funcionalid
 ## 📌 Puntos Claves (Opcional)
 -
 ## 🔗 Connections
-- [[ ]] [[Scrum]]  
-[[Product Owner]]  
-[[User Story]]  
-[[Sprint Backlog]]  
-[[Sprint Planning]]
+- [[Scrum]]  
+- [[Product Owner]]  
+- [[User Story]]  
+- [[Sprint Backlog]]  
+- [[Sprint Planning]]
 
 
 ## 💡 Personal Insight (Opcional)

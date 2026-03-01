@@ -12,9 +12,9 @@ Es una técnica colaborativa de estimación donde el equipo asigna Story Points 
 ## 📌 Puntos Claves (Opcional)
 -
 ## 🔗 Connections
-- [[ ]] [[Story Points]]  
-[[Scrum]]  
-[[Sprint Planning]]
+- [[Story Points]]   
+- [[Scrum]]  
+- [[Sprint Planning]]
 
 
 ## 💡 Personal Insight (Opcional)

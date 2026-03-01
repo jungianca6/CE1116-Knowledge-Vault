@@ -10,13 +10,13 @@ Tema:
 
 Es el conjunto de tareas o historias seleccionadas del Product Backlog que el equipo se compromete a completar durante un sprint específico.
 ## 📌 Puntos Claves (Opcional)
--
+- 
 ## 🔗 Connections
-- [[ ]] [[Scrum]]  
-[[Sprint Planning]]  
-[[Product Backlog]]  
-[[Taskboard]]  
-[[Velocity]]
+- [[Scrum]]  
+- [[Sprint Planning]]  
+- [[Product Backlog]]  
+- [[Taskboard]]  
+- [[Velocity]]
 
 
 ## 💡 Personal Insight (Opcional)

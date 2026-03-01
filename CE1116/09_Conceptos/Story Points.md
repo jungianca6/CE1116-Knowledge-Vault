@@ -14,9 +14,9 @@ Son una unidad de medida relativa para estimar el esfuerzo o complejidad de una 
 
 ## 🔗 Connections
 - [[Planning Poker]]  
-[[Velocity]]  
-[[User Story]]  
-[[Sprint Planning]]
+- [[Velocity]]  
+- [[User Story]]  
+- [[Sprint Planning]]
 
 ## 💡 Personal Insight (Opcional)
 - 

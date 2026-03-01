@@ -12,10 +12,10 @@ Son pruebas que verifican que el sistema cumple con los requerimientos funcional
 ## 📌 Puntos Claves (Opcional)
 - 
 ## 🔗 Connections
-- [[ ]][[Requerimientos Funcionales]]
-[[Requerimientos No Funcionales]]
-[[Requerimientos de Sistema]]
-[[Definition of Done (DoD)]]
+- [[Requerimientos Funcionales]]
+- [[Requerimientos No Funcionales]]
+- [[Requerimientos de Sistema]]
+- [[Definition of Done (DoD)]]
 
 
 ## 💡 Personal Insight (Opcional)

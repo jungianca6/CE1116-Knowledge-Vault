@@ -12,11 +12,11 @@ Es el responsable de maximizar el valor del producto. Prioriza el Product Backlo
 ## 📌 Puntos Claves (Opcional)
 - 
 ## 🔗 Connections
-- [[ ]][[Scrum]]
-[[Product Backlog]]
-[[Stakeholder]]
-[[Requerimientos de Negocio]]
-[[Filosofía ágil]]
+- [[Scrum]]
+- [[Product Backlog]]
+- [[Stakeholder]]
+- [[Requerimientos de Negocio]]
+- [[Filosofía ágil]]
 
 
 ## 💡 Personal Insight (Opcional)

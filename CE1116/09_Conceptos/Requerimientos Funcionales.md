@@ -11,11 +11,11 @@ Describen las funciones o comportamientos específicos que el sistema debe ejecu
 ## 📌 Puntos Claves (Opcional)
 - 
 ## 🔗 Connections
-- [[ ]][[Requerimientos de Sistema]]  
-[[Requerimientos No Funcionales]]  
-[[User Story]]  
-[[Pruebas Funcionales]]  
-[[Definition of Done (DoD)]]
+- [[Requerimientos de Sistema]]  
+- [[Requerimientos No Funcionales]]  
+- [[User Story]]  
+- [[Pruebas Funcionales]]  
+- [[Definition of Done (DoD)]]
 
 
 ## 💡 Personal Insight (Opcional)

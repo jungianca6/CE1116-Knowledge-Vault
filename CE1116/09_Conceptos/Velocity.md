@@ -12,10 +12,10 @@ Es una medida de cuánto trabajo puede completar un equipo en un sprint, normalm
 ## 📌 Puntos Claves (Opcional)
 - 
 ## 🔗 Connections
-- [[ ]][[Scrum]]
-[[Sprint Backlog]]
-[[Story Points]]
-[[Sprint Planning]]
+- [[Scrum]]
+- [[Sprint Backlog]]
+- [[Story Points]]
+- [[Sprint Planning]]
 
 
 ## 💡 Personal Insight (Opcional)

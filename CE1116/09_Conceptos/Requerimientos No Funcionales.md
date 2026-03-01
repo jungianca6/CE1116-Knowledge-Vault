@@ -11,10 +11,10 @@ Definen las características de calidad del sistema, como rendimiento, seguridad
 ## 📌 Puntos Claves (Opcional)
 - 
 ## 🔗 Connections
-- [[ ]][[Requerimientos de Sistema]]  
-[[Requerimientos Funcionales]]  
-[[Pruebas Funcionales]]  
-[[Definition of Done (DoD)]]
+- [[Requerimientos de Sistema]]  
+- [[Requerimientos Funcionales]]  
+- [[Pruebas Funcionales]]  
+- [[Definition of Done (DoD)]]
 
 
 ## 💡 Personal Insight (Opcional)

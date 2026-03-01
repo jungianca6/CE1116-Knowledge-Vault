@@ -12,11 +12,11 @@ Es una forma de desarrollar productos basada en adaptación constante, entregas 
 - 
 
 ## 🔗 Connections
-- [[ ]][[Scrum]]  
-[[Product Owner]]  
-[[User Story]]  
-[[Sprint Planning]]  
-[[Product Backlog]]
+- [[Scrum]]  
+- [[Product Owner]]  
+- [[User Story]]  
+- [[Sprint Planning]]  
+- [[Product Backlog]]
 
 ## 💡 Personal Insight (Opcional)
 - 
