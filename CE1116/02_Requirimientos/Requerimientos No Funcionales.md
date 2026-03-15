@@ -19,6 +19,8 @@ Definen las características de calidad del sistema, como rendimiento, seguridad
 - [[Requerimientos Funcionales]]  
 - [[Pruebas Funcionales]]  
 - [[Definition of Done (DoD)]]
+- [[Alucinaciones]]  
+- [[Ventana de Contexto]]
 
 
 ## 💡 Personal Insight (Opcional)

@@ -20,6 +20,7 @@ Son pruebas que verifican que el sistema cumple con los requerimientos funcional
 - [[Requerimientos No Funcionales]]
 - [[Requerimientos de Sistema]]
 - [[Definition of Done (DoD)]]
+- [[Alucinaciones]]
 
 
 ## 💡 Personal Insight (Opcional)
