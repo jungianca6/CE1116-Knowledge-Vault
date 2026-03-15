@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/09_Conceptos/Definition of Done (DoD).md",
+                "file": "CE1116/03_Arquitectura y Diseño/Microservicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition of Done (DoD)"
+              "title": "Microservicios"
             }
           }
         ],
@@ -339,34 +339,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "011ef8faf24fa05f",
+  "active": "84d3235176a5ae4b",
   "lastOpenFiles": [
-    "CE1116/09_Conceptos/Filosofía ágil.md",
+    "CE1116/02_Requirimientos/Stakeholder.md",
+    "CE1116/02_Requirimientos/Entrevistas.md",
+    "CE1116/01_Procesos de Desarrollo/Scrum.md",
+    "CE1116/05_Pruebas/Definition of Done (DoD).md",
+    "CE1116/01_Procesos de Desarrollo",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
     "CE1116/08_Templates/Atomic Template.md",
     "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/09_Conceptos/Velocity.md",
-    "CE1116/09_Conceptos/User Story.md",
-    "CE1116/09_Conceptos/Taskboard.md",
-    "CE1116/09_Conceptos/Story Points.md",
-    "CE1116/09_Conceptos/Stakeholder.md",
-    "CE1116/09_Conceptos/Sprint Planning.md",
-    "CE1116/09_Conceptos/Sprint Backlog.md",
-    "CE1116/09_Conceptos/Scrum.md",
-    "CE1116/09_Conceptos/Requerimientos No Funcionales.md",
-    "CE1116/09_Conceptos/Requerimientos Funcionales.md",
-    "CE1116/09_Conceptos/Requerimientos de Sistema.md",
-    "CE1116/09_Conceptos/Requerimientos de Negocio.md",
-    "CE1116/09_Conceptos/Pruebas Funcionales.md",
-    "CE1116/09_Conceptos/Product Owner.md",
-    "CE1116/09_Conceptos/Product Backlog.md",
-    "CE1116/09_Conceptos/Planning Poker.md",
-    "CE1116/09_Conceptos/Definition of Done (DoD).md",
+    "CE1116/04_Implementación/Velocity.md",
+    "CE1116/02_Requirimientos/User Story.md",
+    "CE1116/04_Implementación/Taskboard.md",
+    "CE1116/04_Implementación/Story Points.md",
+    "CE1116/04_Implementación/Sprint Planning.md",
+    "CE1116/04_Implementación/Sprint Backlog.md",
+    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
+    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
+    "CE1116/05_Pruebas/Pruebas Funcionales.md",
+    "CE1116/04_Implementación/Product Owner.md",
+    "CE1116/04_Implementación/Product Backlog.md",
+    "CE1116/04_Implementación/Planning Poker.md",
     "CE1116/09_Conceptos/Ejemplo Nueva Nota 2.md",
     "CE1116/09_Conceptos/Ejemplo Nueva Nota 1.md",
     "CE1116/00_Inbox/Scrum.md",
     "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
     "CE1116/09_Conceptos",
     "Sin nombre",
     "CE1116/09_Conceptos",
@@ -376,7 +377,6 @@
     "CE1116/07_Mantenimiento",
     "06_Maintenance",
     "Untitled",
-    "CE1116/06_Despliegue e Infrastructura",
-    "CE1116/05_Pruebas"
+    "CE1116/06_Despliegue e Infrastructura"
   ]
 }
