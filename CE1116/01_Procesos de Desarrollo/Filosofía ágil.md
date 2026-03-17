@@ -1,0 +1,28 @@
+---
+Fecha de creación: 2026-02-27 15:35
+Fecha de Modificación: 2026-02-27 15:35
+tags: 
+Tema:
+---
+# Filosofía ágil
+
+
+---
+
+## 📚 Idea/Concepto 
+
+Es una forma de desarrollar productos basada en adaptación constante, entregas pequeñas y colaboración continua con el cliente, en lugar de planificación rígida desde el inicio.
+## 📌 Puntos Claves (Opcional)
+- 
+
+## 🔗 Connections
+- [[Scrum]]  
+- [[Product Owner]]  
+- [[User Story]]  
+- [[Sprint Planning]]  
+- [[Product Backlog]]
+
+## 💡 Personal Insight (Opcional)
+- 
+## 🧾 Recursos (Opcional)
+- 

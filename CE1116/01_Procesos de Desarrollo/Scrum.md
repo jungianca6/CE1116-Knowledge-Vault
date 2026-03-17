@@ -1,0 +1,36 @@
+---
+Fecha de creación: 2025-08-05 00:00
+Fecha de Modificación: 2025-08-05 00:00
+tags:
+  - "#ingeniería-de-software"
+Topic:
+  - procesos-desarrollo
+---
+# Scrum
+
+
+---
+
+
+## 📚 Idea/Concepto 
+
+Scrum es un marco de trabajo ágil que organiza el desarrollo en ciclos cortos llamados sprints, con roles definidos y reuniones estructuradas para entregar valor de forma incremental.
+
+## 📌 Puntos Claves (Opcional)
+- 
+## 🔗 Connections
+- [[Entrevistas]]
+- [[Filosofía ágil]]  
+- [[Product Owner]]  
+- [[Product Backlog]]  
+- [[Sprint Backlog]]  
+- [[Sprint Planning]]  
+- [[Velocity]]  
+- [[Taskboard]]  
+- [[Definition of Done (DoD)]]
+
+
+## 💡 Personal Insight (Opcional)
+- 
+## 🧾 Recursos (Opcional)
+- 
