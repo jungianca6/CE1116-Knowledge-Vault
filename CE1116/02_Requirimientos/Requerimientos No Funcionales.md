@@ -20,7 +20,10 @@ Definen las características de calidad del sistema, como rendimiento, seguridad
 - [[Pruebas Funcionales]]  
 - [[Definition of Done (DoD)]]
 - [[Alucinaciones]]  
-- [[Ventana de Contexto]]
+- [[Ventana de Contexto]] 
+- [[Escalamiento horizontal y vertical en el cloud]]  
+- [[Redundante en zona en el cloud]]  
+- [[Redundante geo-redundante en el cloud]]
 
 
 ## 💡 Personal Insight (Opcional)
