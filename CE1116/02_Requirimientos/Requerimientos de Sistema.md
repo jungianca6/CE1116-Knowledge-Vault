@@ -1,8 +1,8 @@
 ---
 Fecha de creación: 2026-02-27 15:35
 Fecha de Modificación: 2026-02-27 15:35
-tags: 
-Tema:
+tags:
+Tema: requerimientos
 ---
 # Requerimientos de Sistema
 
@@ -21,7 +21,9 @@ Son especificaciones técnicas que describen lo que el sistema debe hacer y cóm
 - [[Requerimientos No Funcionales]]  
 - [[Pruebas Funcionales]]
 - [[Ventana de Contexto]]  
-- [[Tokenización]]
+- [[Tokenización]] 
+- [[Virtual Private Cloud (VPC)]]  
+- [[IaaS vs PaaS vs SaaS]]
 
 ## 💡 Personal Insight (Opcional)
 - 

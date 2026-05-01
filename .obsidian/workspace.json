@@ -293,16 +293,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monitoreo de Aplicación"
+              "title": "README"
+            }
+          },
+          {
+            "id": "c0af5737ecd9ea7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/03_Arquitectura y Diseño/Cloud Público.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Público"
+            }
+          },
+          {
+            "id": "fbb0e1874fb147d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/03_Arquitectura y Diseño/Virtual Private Cloud (VPC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual Private Cloud (VPC)"
+            }
+          },
+          {
+            "id": "af804ba93c9e31a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/03_Arquitectura y Diseño/Cloud Híbrido (Hybrid Cloud).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Híbrido (Hybrid Cloud)"
+            }
+          },
+          {
+            "id": "534be06c259ace2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/06_Despliegue e Infrastructura/Escalamiento horizontal y vertical en el cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escalamiento horizontal y vertical en el cloud"
+            }
+          },
+          {
+            "id": "e9e9336fad7ec0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/04_Implementación/IaaS vs PaaS vs SaaS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IaaS vs PaaS vs SaaS"
+            }
+          },
+          {
+            "id": "71297763115d6503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/06_Despliegue e Infrastructura/Redundante localmente en el cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redundante localmente en el cloud"
+            }
+          },
+          {
+            "id": "9791779d907c7a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/06_Despliegue e Infrastructura/Redundante en zona en el cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redundante en zona en el cloud"
+            }
+          },
+          {
+            "id": "819d836c4681313a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Sistema"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -453,32 +565,32 @@
   },
   "active": "84d3235176a5ae4b",
   "lastOpenFiles": [
+    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
+    "CE1116/06_Despliegue e Infrastructura/Redundante localmente en el cloud.md",
+    "CE1116/06_Despliegue e Infrastructura/Redundante en zona en el cloud.md",
+    "CE1116/04_Implementación/IaaS vs PaaS vs SaaS.md",
+    "CE1116/06_Despliegue e Infrastructura/Escalamiento horizontal y vertical en el cloud.md",
+    "CE1116/03_Arquitectura y Diseño/Cloud Híbrido (Hybrid Cloud).md",
+    "CE1116/03_Arquitectura y Diseño/Virtual Private Cloud (VPC).md",
+    "CE1116/03_Arquitectura y Diseño/Cloud Público.md",
+    "Cloud Híbrido.md",
+    "CE1116/06_Despliegue e Infrastructura/Redundante geo-redundante en el cloud.md",
+    "CE1116/02_Requirimientos/Entrevistas.md",
+    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
+    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
+    "CE1116/01_Procesos de Desarrollo/Scrum.md",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "README.md",
+    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "Sin título.md",
     "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
     "CE1116/05_Pruebas/Pruebas Unitarias.md",
     "CE1116/05_Pruebas/Pruebas Funcionales.md",
     "CE1116/05_Pruebas/Definition of Done (DoD).md",
     "CE1116/05_Pruebas/Alucinaciones.md",
     "CE1116/04_Implementación/Velocity.md",
-    "CE1116/04_Implementación/Tokenización.md",
-    "CE1116/04_Implementación/Taskboard.md",
-    "CE1116/04_Implementación/Story Points.md",
-    "CE1116/04_Implementación/Sprint Planning.md",
-    "CE1116/04_Implementación/Sprint Backlog.md",
-    "CE1116/04_Implementación/Product Owner.md",
-    "CE1116/04_Implementación/Product Backlog.md",
-    "CE1116/04_Implementación/Planning Poker.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/03_Arquitectura y Diseño/Redes Neuronales.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/03_Arquitectura y Diseño/Mecanismo de Atención.md",
-    "CE1116/03_Arquitectura y Diseño/Función de Activación.md",
-    "CE1116/03_Arquitectura y Diseño/Embeddings.md",
-    "CE1116/03_Arquitectura y Diseño/Arquitectura Transformer.md",
-    "CE1116/02_Requirimientos/Ventana de Contexto.md",
-    "CE1116/02_Requirimientos/User Story.md",
-    "CE1116/02_Requirimientos/Stakeholder.md",
-    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
     "CE1116/01_Procesos de Desarrollo",
     "CE1116/09_Conceptos",
     "Sin nombre",

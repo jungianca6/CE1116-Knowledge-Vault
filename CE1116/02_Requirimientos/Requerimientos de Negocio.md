@@ -1,8 +1,8 @@
 ---
 Fecha de creación: 2026-02-27 15:35
 Fecha de Modificación: 2026-02-27 15:35
-tags: 
-Tema:
+tags:
+Tema: requerimientos
 ---
 # Requerimientos de Negocio
 
